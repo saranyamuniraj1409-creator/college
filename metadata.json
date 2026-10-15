@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect – Smart College Management System",
+  "description": "Comprehensive college ERP portal with role-based dashboards for Students, Class Advisors, HODs, and Admins, integrated with Supabase and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
